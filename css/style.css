@@ -1,0 +1,46 @@
+/*1*/
+
+p {
+	color: green;
+	text-align: center;
+}
+
+/*2*/
+
+.paragraph-one, .paragraph-three {
+	color: red;
+}
+
+/*3*/
+
+#paragraph-two {
+	color: #ff00aa;
+}
+
+/*4*/
+
+a {
+	color: red;
+}
+
+/*5*/
+
+.menu a {
+	color: #ff00aa;
+}
+
+.menu {
+	color: green;
+}
+
+.menu ul {
+	list-style-type: none;
+}
+
+.menu .berries{
+	list-style-type: square;
+}
+
+.menu .berries a {
+	text-decoration: none;
+}

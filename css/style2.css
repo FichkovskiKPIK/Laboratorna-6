@@ -1,0 +1,42 @@
+a {
+	font-size: 18px;
+	text-decoration: none;
+	margin-left: 5px;
+}
+
+div {
+	width: 275px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.menu li {
+	border-bottom: 3px solid #fff;
+	background-color: green;
+	padding: 5px 0px 5px 0px;
+}
+
+.menu li a{
+	color: #fff;
+}
+
+.sub-menu {
+	margin:0px 5px 0px -10px;
+}
+
+.sub-menu li {
+	background-color: #ff9500;
+	border: none;
+}
+
+
+.sub-menu li {
+	margin-left: -25px;
+}
+
+.sub-menu li a {
+	color: #000;
+	line-height: 200%;
+}
